@@ -708,6 +708,7 @@ header.header--sticky .logo--white {
   padding: 50px 0 100px;
   position: relative;
   background-color: #f7f7fb;
+  overflow: hidden;
 }
 
 #countrytours .container {
