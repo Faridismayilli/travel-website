@@ -820,6 +820,7 @@ header.header--sticky .logo--white {
   border-radius: 20px;
   color: #fff;
   z-index: 3;
+  position: relative;
 }
 
 .form {
@@ -887,7 +888,7 @@ header.header--sticky .logo--white {
   position: absolute;
   z-index: 1;
   top: -110px;
-  left: 213px;
+  left: -176px;
 }
 
 /* Footer */
